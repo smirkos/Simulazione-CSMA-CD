@@ -1,0 +1,8 @@
+C:\Users\MK\Desktop\Programmi\Sistemi\5AI\Simulazione CSMA_CD\Simulazione CSMA_CD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MK\Desktop\Programmi\Sistemi\5AI\Simulazione CSMA_CD\Simulazione CSMA_CD\obj\Debug\Simulazione_CSMA_CD.Form1.resources
+C:\Users\MK\Desktop\Programmi\Sistemi\5AI\Simulazione CSMA_CD\Simulazione CSMA_CD\obj\Debug\Simulazione_CSMA_CD.Properties.Resources.resources
+C:\Users\MK\Desktop\Programmi\Sistemi\5AI\Simulazione CSMA_CD\Simulazione CSMA_CD\obj\Debug\Simulazione CSMA_CD.csproj.GenerateResource.Cache
+C:\Users\MK\Desktop\Programmi\Sistemi\5AI\Simulazione CSMA_CD\Simulazione CSMA_CD\bin\Debug\Simulazione CSMA_CD.exe
+C:\Users\MK\Desktop\Programmi\Sistemi\5AI\Simulazione CSMA_CD\Simulazione CSMA_CD\bin\Debug\Simulazione CSMA_CD.pdb
+C:\Users\MK\Desktop\Programmi\Sistemi\5AI\Simulazione CSMA_CD\Simulazione CSMA_CD\obj\Debug\Simulazione CSMA_CD.exe
+C:\Users\MK\Desktop\Programmi\Sistemi\5AI\Simulazione CSMA_CD\Simulazione CSMA_CD\obj\Debug\Simulazione CSMA_CD.pdb
